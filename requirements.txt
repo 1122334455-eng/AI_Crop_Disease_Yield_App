@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+pandas
+numpy
+opencv-python
+Pillow
+joblib
+plotly
+qrcode
